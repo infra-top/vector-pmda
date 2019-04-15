@@ -32,3 +32,6 @@
 *.dSYM/
 
 .idea/*
+
+/pmda
+*.iml
